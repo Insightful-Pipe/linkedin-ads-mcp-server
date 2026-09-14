@@ -1,0 +1,10 @@
+dimension,value,impressions,clicks,ctr,spend
+job_function,Marketing,48000,1920,4.00%,2880.00
+job_function,Sales,42000,1680,4.00%,2520.00
+job_function,IT,38000,1140,3.00%,1710.00
+job_function,Operations,28000,840,3.00%,1260.00
+seniority,Director,32000,1600,5.00%,3200.00
+seniority,Manager,45000,1800,4.00%,2700.00
+seniority,VP,18000,900,5.00%,1800.00
+company_size,1001-5000,52000,2080,4.00%,3120.00
+company_size,5001-10000,38000,1520,4.00%,2280.00

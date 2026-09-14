@@ -1,0 +1,6 @@
+campaign_id,campaign_name,objective,impressions,clicks,ctr,spend,cpc,conversions,cost_per_conversion
+urn:li:campaign:123456,B2B Lead Gen,LEAD_GENERATION,145000,4350,3.00%,8700.00,2.00,285,30.53
+urn:li:campaign:123457,Brand Awareness,BRAND_AWARENESS,320000,6400,2.00%,4800.00,0.75,NA,NA
+urn:li:campaign:123458,Website Visits,WEBSITE_VISITS,180000,7200,4.00%,5400.00,0.75,420,12.86
+urn:li:campaign:123459,Engagement,ENGAGEMENT,95000,4750,5.00%,2850.00,0.60,NA,NA
+urn:li:campaign:123460,Video Views,VIDEO_VIEWS,280000,8400,3.00%,3360.00,0.40,NA,NA
